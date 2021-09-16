@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "first_name": "John",
+        "last_name": "tan",
+        "contact_number": [12345678, 23456789],
+        "addresss": {
+            "building_name": "",
+            "street": "",
+            "floor_number": 1,
+            "postal_code": 123456
+        },
+        "pet": [
+            {
+                "pet_name": "choco",
+                "medicine_id":[123]
+            },
+            {
+                "pet_name":"berry",
+                "medicine_id":[456]
+            }
+        ],
+        "appointment": [
+            {
+                "appointment_id": 45453,
+                "pet_name": "choco",
+                "vet":{
+                    "vet_id": 123455,
+                    "vet_name": "Abel"
+                }
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "first_name": "Mary",
+        "last_name": "tan",
+        "contact_number": [12345678, 23456789],
+        "addresss": {
+            "building_name": "",
+            "street": "",
+            "floor_number": 1,
+            "postal_code": 234567
+        },
+        "pet": [
+            {
+                "pet_name": "kitty",
+                "medicine_id":[123]
+            },
+            {
+                "pet_name":"ash",
+                "medicine_id":[456]
+            }
+        ],
+        "appointment": [
+            {
+                "appointment_id": 45456,
+                "pet_name": "ash",
+                "vet":{
+                    "vet_id": 34567,
+                    "vet_name": "Bob"
+                }
+            }
+        ]
+    }
+]

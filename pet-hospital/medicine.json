@@ -1,0 +1,16 @@
+[
+    {
+        "medicine_id": 123,
+        "medicine_name": "panodol",
+        "cost": 10,
+        "side_effects": "sleepy",
+        "dosage": "twice a day"
+    },
+    {
+        "medicine_id": 456,
+        "medicine_name": "ibuprofen",
+        "cost": 20,
+        "side_effects": "nausea",
+        "dosage": "once a day"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "appointment_id": 45453,
+        "time_date": "11.50 12-12-2020",
+        "reason_for_appointment": "headache",
+    },
+    {
+        "appointment_id": 45456,
+        "time_date": "11.50 13-12-2020",
+        "reason_for_appointment": "muscleache"
+    }
+]
